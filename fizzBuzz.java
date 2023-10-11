@@ -1,5 +1,5 @@
-//fizzbuzz is a coding problem where we have to print number from1-n 
-// when we there is multiple of three print FIZZ
+// fizzbuzz is a coding problem where we have to print number from 1-n 
+// when there is multiple of three print FIZZ
 // when there is multiple of five print BUZZ
 // when there is multiple of three as well as five print FIZZBUZZ
 
