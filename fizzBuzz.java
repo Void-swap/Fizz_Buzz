@@ -7,7 +7,7 @@ import java.util.*;
 
 public class fizzBuzz {
     public static void main(String arg[]){
-        System.out.print("ENter N :");
+        System.out.print("Enter N :");
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
 
